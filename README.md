@@ -1,5 +1,6 @@
 # LANmanager
-a LAN system manager with options for reverse shell, screenshot, record audio, keylog. (version 0.0.5)
+a LAN system manager with options for reverse shell, screenshot, record audio, keylog. (version 0.0.5).
+##### A project made a long time ago.
 
 ### How to run:
 #### On host
