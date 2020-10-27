@@ -1,6 +1,6 @@
 # LANmanager
 a LAN system manager with options for reverse shell, screenshot, record audio, keylog. ```(version 0.0.5).```
-##### A project I made in 11th grade for my home network and my school network so the teacher can connect to any computer and take screenshots/do commands on the computer
+##### A project I made in 11th grade for my home network and my school network so the teacher can connect to any computer and take screenshots/do commands on the computer and help students, for Information Technology class.
 
 ### How to run:
 #### On host
